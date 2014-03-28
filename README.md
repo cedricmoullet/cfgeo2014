@@ -1,4 +1,4 @@
 cfgeo2014
 =========
 
-Test cf-geo 2014
+Essai lors du cours du vendredi 28 mars 2014
